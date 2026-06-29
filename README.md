@@ -12,6 +12,9 @@ I'm a fullstack developer focused on **Python** and **web development**. I learn
 
 I treat heavily commented code as personal documentation — if you read through my repos, you'll usually find detailed comments explaining the "why," not just the "what."
 
+## Check my portfolio website:
+### https://silvamike1710-oss.github.io/Portfolio/
+
 ---
 
 ### 🚀 Featured Projects
