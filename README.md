@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**silvamike1710-oss/silvamike1710-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fullstack Python Developer | Currently finishing **Fullstack Python Technician** @ EBAC
+📍 Santa Maria, RS, Brazil
+🔭 Looking for my first opportunity as a junior fullstack developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+I'm a fullstack developer focused on **Python** and **web development**. I learn best by building — most of my projects start as "let me figure this out from scratch" and turn into full applications. I also have a recognizable personal style: a lot of my side projects use a **retro Windows 95 aesthetic** (complete with VT323 font and pixel-perfect UI), which I apply consistently as a kind of creative signature.
+
+I treat heavily commented code as personal documentation — if you read through my repos, you'll usually find detailed comments explaining the "why," not just the "what."
+
+---
+
+### 🚀 Featured Projects
+
+**📍 GPS Tracker** — Real-time geolocation tracking web app
+`Node.js` `Express` `MongoDB Atlas` `Leaflet.js` — deployed on Render
+
+**🌱 EcoDev AI** — Platform that audits codebases for AI API cost inefficiencies and security vulnerabilities, supporting multiple AI providers
+`Python` `FastAPI` `Win95-styled frontend`
+
+**🎰 Browser Casino Suite** — Slot machine, blackjack, cashier system, and themed store with consistent state management
+`JavaScript` `HTML/CSS` `Win95 UI`
+
+**🕵️ CodeNames** — Multiplayer Codenames clone
+`React` `Vite` `FastAPI`
+
+**🐙 Comuhoot** — Real-time multiplayer trivia game
+`Node.js` `Socket.IO`
+
+**🐣 Tamagotchi** — Virtual pet, packaged as a desktop app
+`Electron.js` `JavaScript`
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, HTML, CSS
+**Backend:** Node.js, Express, FastAPI, Flask, Django
+**Frontend:** React
+**Databases:** MongoDB, Redis
+**Tools & Infra:** Docker, Podman, Git, Celery, Kafka
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out — I'm actively looking for junior fullstack roles!
