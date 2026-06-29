@@ -12,8 +12,10 @@ I'm a fullstack developer focused on **Python** and **web development**. I learn
 
 I treat heavily commented code as personal documentation — if you read through my repos, you'll usually find detailed comments explaining the "why," not just the "what."
 
-## Check my portfolio website:
-### https://silvamike1710-oss.github.io/Portfolio/
+---
+
+#### Check my portfolio website:
+#### https://silvamike1710-oss.github.io/Portfolio/
 
 ---
 
@@ -46,7 +48,9 @@ I treat heavily commented code as personal documentation — if you read through
 **Frontend:** React
 **Databases:** MongoDB, Redis
 **Tools & Infra:** Docker, Podman, Git, Celery, Kafka
+### 📊 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvamike1710-oss&layout=compact&theme=react&hide_border=true)
 ---
 
 ### 📫 Let's Connect
