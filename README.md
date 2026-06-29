@@ -50,7 +50,8 @@ I treat heavily commented code as personal documentation — if you read through
 **Tools & Infra:** Docker, Podman, Git, Celery, Kafka
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvamike1710&layout=compact&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvamike1710-oss&layout=compact&theme=react&hide_border=true)
+
 ---
 
 ### 📫 Let's Connect
